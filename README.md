@@ -1,10 +1,11 @@
 ###########Update Volumes Fixer############
+
 Simple bash script to update etcd volume task states from "Running" to "Completed" and refresh volume cluster info.
+
 Requirements
 
 etcdctl (in PATH)
 jq
-Bash 4+
 
 Installation
 
