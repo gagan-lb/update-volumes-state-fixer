@@ -1,4 +1,4 @@
-###########Update Volumes Fixer############
+###########Update Volumes State Fixer############
 
 Simple bash script to update etcd volume task states from "Running" to "Completed" and refresh volume cluster info.
 
